@@ -1,0 +1,105 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Primary CSS Codes */
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: #FFFFFF;
+}
+
+
+h1, h3, h4{
+    color: #272727;
+}
+h1{
+    font-size: 80px;
+    font-weight: 800;
+}
+h3{
+    font-size: 40px;
+    font-weight: 800;
+}
+h4{
+    font-size: 24px;
+    padding-top: 32px;
+    text-decoration: underline;
+}
+
+p{
+    color: rgba(39, 39, 39, 0.6);
+}
+
+/* primary button */
+.primary-btn{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    width: 180px;
+    padding: 18.5px 0;
+    margin: 32px 0;
+    background-color: #E55473;
+    border: none;
+    border-radius: 08px;
+}
+
+
+/* Start Header Section */
+.header-section{
+    background-color: rgba(229, 84, 115, 0.1);
+}
+header{
+    width: 1440px;
+    padding-top: 50px;
+}
+.header-data{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.image-size{
+    width: 635px;
+}
+.header-text{
+    padding: 32px 0 0 0;
+}
+
+
+
+/* Start Featured Section */
+.featured-section{
+    margin-top: 180px;
+    width: 1440px;
+}
+.featured-title{
+    text-align: center;
+}
+.featured-paragraph{
+    margin-top: 24px;
+}
+.flowers-items{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    text-align: center;
+}
+.Flower1{
+    padding: 77px 77px 0px 77px;
+    margin-right: 16px;
+    background-color: rgba(229, 84, 115, 0.15);
+    border-radius: 50% 50% 0 0;
+}
+.Flower2{
+    padding: 67.5px 47px;
+    margin: 0px 8px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 50% 50% 0 0;
+}
+.Flower3{
+    padding: 34px 75px 0;
+    margin-left: 16px;
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 50% 50% 0 0;
+}
+/* End Featured Section */
