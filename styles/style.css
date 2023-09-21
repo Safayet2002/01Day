@@ -23,6 +23,7 @@ h3{
 }
 h4{
     font-size: 24px;
+    font-weight: 600;
     padding-top: 32px;
     text-decoration: underline;
 }
@@ -91,7 +92,7 @@ header{
     border-radius: 50% 50% 0 0;
 }
 .Flower2{
-    padding: 67.5px 47px;
+    padding: 85px 47px 50px;
     margin: 0px 8px;
     background-color: rgba(5, 151, 160, 0.15);
     border-radius: 50% 50% 0 0;
