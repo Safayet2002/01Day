@@ -104,3 +104,18 @@ header{
     border-radius: 50% 50% 0 0;
 }
 /* End Featured Section */
+
+/* Start A Small Section */
+.small-section{
+    margin: 128px 0;
+}
+.icons{
+    width: 1440px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgba(39, 39, 39, 0.05);
+    border-radius: 8px;
+    padding: 104px 0;
+}
+/* End A Small Section */
