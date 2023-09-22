@@ -121,6 +121,9 @@ header{
     border-radius: 8px;
     padding: 104px 0;
 }
+.icons p{
+    font-size: 24px;
+}
 /* End A Small Section */
 
 /* Start Hot Deal Section */
@@ -145,3 +148,98 @@ header{
     height: auto;
 }
 /* End Hot Deal Section */
+
+/* Start Instagram Section */
+.instagram-section{
+    margin-top: 180px;
+    width: 1440px;
+}
+.instagram-title{
+    text-align: center;
+}
+.instagram-paragraph{
+    margin-top: 24px;
+}
+.instagram-post{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-align: center;
+}
+/* End Instagram Section */
+
+/* Start Get Deals Section */
+.get-deals{
+    width: 1440px;
+}
+.get-deals-background{
+    margin: 128px 0;
+    padding: 128px 0;
+    background-image: url('../FlowerAsset/Rectangle\ 9.png');
+    text-align: center;
+}
+.input-details{
+margin-top: 32px;
+}
+input{
+    height: 64px;
+    padding: 0px 14px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+}
+.input-w{
+    width: 290px;
+}
+.input-address{
+    width: 746px;
+}
+input::placeholder{
+    padding-left: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+/* End Get Deals Section */
+
+/* Start contact Section */
+.order-now{
+    width: 1440px;
+}
+.order-now-background{
+    margin: 128px 0;
+    padding: 128px 0;
+    background-color: rgba(5, 151, 160, 0.15);
+    text-align: center;
+}
+input{
+    width: 696px;
+    height: 64px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+}
+input::placeholder{
+    padding-left: 10px;
+    font-size: 16px;
+}
+/* End contact Section */
+
+/* Start Footer Section */
+.footer{
+    background-color: #111010;
+}
+.footer-data{
+    text-align: center;
+    padding: 130px 0;
+    width: 1440px;
+}
+.paragraph-text-color{
+    color: rgba(255, 255, 255, 1);
+    padding-top: 24px;
+}
+.text40{
+    color: rgba(255, 255, 255, 0.4);
+    padding-top: 32px;
+}
+
+/* End Footer Section */
