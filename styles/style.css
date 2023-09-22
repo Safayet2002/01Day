@@ -31,6 +31,9 @@ h4{
 p{
     color: rgba(39, 39, 39, 0.6);
 }
+.text-color{
+    color: #E55473;
+}
 
 /* primary button */
 .primary-btn{
@@ -119,3 +122,26 @@ header{
     padding: 104px 0;
 }
 /* End A Small Section */
+
+/* Start Hot Deal Section */
+.hot-deal{
+    background-color: rgba(229, 84, 115, 0.1);
+}
+.hot-deal-data{
+    display: flex;
+    width: 1440px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 0;
+}
+.hot-deal-text{
+    padding-top: 32px;
+}
+.hot-deal-content{
+    text-align: center;
+}
+.hot-image-size{
+    width: 318px;
+    height: auto;
+}
+/* End Hot Deal Section */
